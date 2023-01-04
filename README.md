@@ -5,5 +5,8 @@ HTML Project
 <p>
 I almost takes 2 days to complete this project 
 </p>
-If anyone wants to learn HTML, go ahead by making this project(link below)
+If anyone wants to learn HTML,
+<hr>
+Go ahead by making this project (link below)
+<hr>
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1
